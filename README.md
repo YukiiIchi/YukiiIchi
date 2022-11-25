@@ -4,7 +4,7 @@
 
 <<And it's all what i want to say>>>        　　　　　　
 -
-「Last work」:https://github.com/YukiiIchi/Python/blob/main/Colabole.md
+「Last work」:https://github.com/YukiiIchi/Python
 
 ↓Repositories↓ 
 =
