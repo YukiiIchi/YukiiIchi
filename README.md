@@ -4,7 +4,7 @@
 
 <<And it's all what i want to say>>>        　　　　　　
 -
-「Last work」:https://github.com/YukiiIchi/Educational_Practica/blob/master/一.docx
+「Last work」:https://github.com/YukiiIchi/Educational_Practica_Office
 
 ↓Repositories↓ 
 =
