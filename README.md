@@ -4,7 +4,7 @@
 
 <<And it's all what i want to say>>>        　　　　　　
 -
-「Last work」https://github.com/YukiiIchi/Work2023
+「Last work」 https://github.com/YukiiIchi/RedOs_Practice/blob/master/SUBD.md
 
 ↓Repositories↓ 
 =
